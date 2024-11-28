@@ -1,2 +1,2 @@
-# carrers-website
+# careers-website
 This is carrers website 
